@@ -1,0 +1,29 @@
+# ------------------------
+# Archivos de R
+# ------------------------
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# ------------------------
+# Archivos de Python
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+env/
+venv/
+*.env
+
+# ------------------------
+# Archivos temporales del sistema
+# ------------------------
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+*.swp
